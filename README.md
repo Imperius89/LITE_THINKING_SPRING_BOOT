@@ -4,7 +4,7 @@
 
 Java es uno de los lenguajes más utilizados para crear el backend de aplicaciones web, aplicaciones móviles, juegos y sistemas de gestión empresarial. Su robustez, potencia y amplio ecosistema de tecnologías hacen que sea una excelente opción para desarrollar servicios backend versátiles y escalables
 
-##Frontend
+## Frontend
 
 React es una gran opción para el desarrollo frontend. Facilita la creación de interfaces de usuario dinámicas, es fácil de probar y ofrece un buen rendimiento.
 
