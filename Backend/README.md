@@ -6,7 +6,6 @@ FullStackApp is a web application built with Spring Boot for the backend and Rea
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 
 ## Features
 
