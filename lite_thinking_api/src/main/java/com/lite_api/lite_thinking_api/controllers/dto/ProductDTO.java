@@ -1,20 +1,21 @@
 package com.application.rest.controllers.dto;
 
-import com.application.rest.entities.Product;
+import com.application.rest.entities.Maker;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
+import java.math.BigDecimal;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class MakerDTO {
+public class ProductDTO {
 
     private Long id;
     private String name;
-    private List<Product> productList;
+    private BigDecimal price;
+    private Maker maker;
 }
